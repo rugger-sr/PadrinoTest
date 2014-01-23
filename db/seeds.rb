@@ -5,7 +5,7 @@
 #   name = shell.ask("What's your name?")
 #   shell.say name
 #
-email     = "system@wac.jpn.com"
+email     = "system@account.com"
 password  = "system256"
 
 shell.say ""
