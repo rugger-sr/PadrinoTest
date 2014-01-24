@@ -16,6 +16,7 @@ gem 'rake'
 # Component requirements
 gem 'bcrypt-ruby', :require => 'bcrypt'
 gem 'slim'
+gem 'pg'
 gem 'sqlite3'
 gem 'sequel'
 
